@@ -1,6 +1,5 @@
 
 import { Box, Typography, styled } from '@mui/material'
-import { red } from '@mui/material/colors';
 import React from 'react'
 
 
